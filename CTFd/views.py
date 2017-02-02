@@ -51,9 +51,9 @@ def setup():
 
             ## Index page
             page = Pages('index', """<div class="container main-container">
-    <img class="logo" src="{0}/static/original/img/logo.png" />
+    <img class="logo" src="{0}/static/original/img/logo.jpg" />
     <h3 class="text-center">
-        Bem vindo(a) ao open CTF do pogTeam! Entre em contato pelo canal ##pogTeam na freenode :)
+        Welcome to pogTeam's recruiting CTF! Keep in touch through our IRC chan ##pogTeam (freenode) or our <a href="https://t.me/pogTeamPublico">Telegram chan</a>!
     </h3>
 
     <h4 class="text-center">
